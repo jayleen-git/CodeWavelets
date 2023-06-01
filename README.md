@@ -10,6 +10,7 @@ cd tests
 mkdir build
 cmake .. && make
 ./my_tests 
+```
 
 # CodeWavelets
 CodeWavelets is a C++ library for wavelet analysis.
